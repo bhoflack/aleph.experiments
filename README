@@ -1,0 +1,12 @@
+# aleph.http.utils
+
+Experimenting with various approaches with Aleph.
+
+## Installation
+
+Use lein to get all the dependencies. Then replace the official aleph and 
+ring-core jars with jars created from my clones of those repos:
+
+	git://github.com/rosado/aleph.git
+	git://github.com/rosado/ring.git  (aleph-compatible branch)
+
